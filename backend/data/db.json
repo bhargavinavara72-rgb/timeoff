@@ -1,0 +1,433 @@
+{
+  "users": [
+    {
+      "id": "USR-ADMIN-001",
+      "name": "Lakshmi Prasanna",
+      "username": "lakshmi.prasanna",
+      "email": "lakshmi.prasanna@timeoffpro.in",
+      "passwordHash": "scrypt$5c2438e4905f140cc4ddcef705618e92$fc64b9e28a73025903c81bda7be619817a35a2cb6e1ae20373ef60f6ad35d0331cccc38acbc6f5395f39342ede66e04ebe99bbc033fb9feec37bf2a439037240",
+      "role": "admin",
+      "active": true
+    },
+    {
+      "id": "USR-MGR-001",
+      "name": "Venkata Ramana",
+      "username": "venkata.ramana",
+      "email": "venkata.ramana@timeoffpro.in",
+      "passwordHash": "scrypt$1ed0dbf087013f27eb86decc9a366963$656626c073a16379c67047b7f25b918c214d9487028257461f93f1160c431ecd50d478b0a252a7e8d350ddb5c67736126cdfe060cf1f776356c189de8e12ea49",
+      "role": "manager",
+      "active": true
+    },
+    {
+      "id": "USR-MGR-002",
+      "name": "Suresh Babu",
+      "username": "suresh.babu",
+      "email": "suresh.babu@timeoffpro.in",
+      "passwordHash": "scrypt$2039d40813ecfdd5bf1f7dac862722e1$3bb7143431116d98cccbbf8fea2046fdaeec3cfc71a5fccb67c567b8d537d0e4c1ffed5d0d901c5be3a721c6d8ce3fc7f79872012b66ff977da15051daaf36e9",
+      "role": "manager",
+      "active": true
+    },
+    {
+      "id": "USR-EMP-001",
+      "name": "Sai Kiran",
+      "username": "sai.kiran",
+      "email": "sai.kiran@timeoffpro.in",
+      "passwordHash": "scrypt$687b260a7c7519934929f64afc56bdfc$4e01425434aca66843811dbe2912831390739a4ea5107a830c9d96825d3785eede78735dc27cd453041dcbceadd4c6bdfd9da0185493576d5a374edc550a6226",
+      "role": "employee",
+      "active": true
+    },
+    {
+      "id": "USR-EMP-002",
+      "name": "Priya Menon",
+      "username": "priya.menon",
+      "email": "priya.menon@timeoffpro.in",
+      "passwordHash": "scrypt$e1623335323f40cf4d1f1bb6bf816c77$dc9ce44cf5382c4e132b9c4f8df94d53de64f1e186381e69340bed14f2a3ee3ef5d683859acaa6967fbeb994c4599b26c5543a3ffa9c4e0019628bc644cf25ff",
+      "role": "employee",
+      "active": true
+    },
+    {
+      "id": "USR-EMP-003",
+      "name": "Rohan Shah",
+      "username": "rohan.shah",
+      "email": "rohan.shah@timeoffpro.in",
+      "passwordHash": "scrypt$7dafcd782b98f3edb9b80c8310b94b6e$ed9f575917f2e3ce54a4cac3cc8ca9b429ec005624a7fd7f855ec15430cffc8b18faadb7c08512bec1e92a6066a978039746f5df0ff7fa30253a2dd0f1c49ea4",
+      "role": "employee",
+      "active": true
+    },
+    {
+      "id": "USR-EMP-004",
+      "name": "Ananya Kumar",
+      "username": "ananya.kumar",
+      "email": "ananya.kumar@timeoffpro.in",
+      "passwordHash": "scrypt$7a63e6c5b9490cde8e51a570a35bb1ee$8353fadef14a1ecbf1611d40cbb6d4ac2ea6c4703397d03d4ac599dfc884bdab35572bfb9fdec45f48217fbcd9691caf23e2097b070a8885c118de0566d9e22f",
+      "role": "employee",
+      "active": true
+    },
+    {
+      "id": "USR-EMP-005",
+      "name": "Divya Chowdary",
+      "username": "divya.chowdary",
+      "email": "divya.chowdary@timeoffpro.in",
+      "passwordHash": "scrypt$73aa1ba5c2ca2fa23f1d398b5a3daff7$22b08583db7bf1bbdbd8de4734a5d870e41a3f13d423073d3af614323c444aff29cf42ca4030258eda6dc58497aefc55a3d128abced7ed911493ebfb5c610166",
+      "role": "employee",
+      "active": true
+    },
+    {
+      "id": "USR-EMP-006",
+      "name": "Karthik Varma",
+      "username": "karthik.varma",
+      "email": "karthik.varma@timeoffpro.in",
+      "passwordHash": "scrypt$942f0ea2d1b085bed8eca5e654010344$84d8b7b76912ba0ce3515b543727bba8a9cbcbe96008a693b7945011f299ac08444967e124687f36dcb8f178810de7842bfb50880db6b949ef8634cc1c809d9d",
+      "role": "employee",
+      "active": true
+    },
+    {
+      "id": "USR-36134680-efa2-4dc5-b1ec-42f737a119dd",
+      "name": "sagar",
+      "username": "sagar",
+      "email": "sagar@30gmail.com",
+      "passwordHash": "scrypt$e8f811c69890c31173c896a56b45325b$4d8be57f3a0820db3211f89f03771cab6f4a855b375d40630eb31a70485186062ee209a21deb24ebcd15c99e260b43a704664c816c001bfe9cc8450892240cff",
+      "role": "manager",
+      "active": true,
+      "department": "HR",
+      "designation": "Analyst"
+    },
+    {
+      "id": "USR-21b004f3-f308-4d0d-96d5-390d12c4102d",
+      "name": "sundhar",
+      "username": "sundhar72",
+      "email": "sundhar72@gmail.com",
+      "passwordHash": "scrypt$cf3024b614bff320dabe471f8e0290f3$c9dd645ab7b58d77c92420fe04644b5347cbca78f7c14d616b3cc2449d4ee12b6950e2dafc6eed9c3de318bc0a5ee962d0dd89e09bc214e83c139bbbe665dccf",
+      "role": "manager",
+      "active": true,
+      "department": "HR",
+      "designation": "Analyst"
+    }
+  ],
+  "employees": [
+    {
+      "id": "EMP-1001",
+      "userId": "USR-EMP-001",
+      "name": "Sai Kiran",
+      "email": "sai.kiran@timeoffpro.in",
+      "department": "Product & Technology",
+      "designation": "Software Engineer",
+      "managerId": "USR-MGR-001",
+      "joiningDate": "2024-03-18",
+      "active": true
+    },
+    {
+      "id": "EMP-1002",
+      "userId": "USR-EMP-002",
+      "name": "Priya Menon",
+      "email": "priya.menon@timeoffpro.in",
+      "department": "Product & Technology",
+      "designation": "Product Designer",
+      "managerId": "USR-MGR-001",
+      "joiningDate": "2023-08-07",
+      "active": true
+    },
+    {
+      "id": "EMP-1003",
+      "userId": "USR-EMP-003",
+      "name": "Rohan Shah",
+      "email": "rohan.shah@timeoffpro.in",
+      "department": "Product & Technology",
+      "designation": "QA Analyst",
+      "managerId": "USR-MGR-001",
+      "joiningDate": "2024-01-22",
+      "active": true
+    },
+    {
+      "id": "EMP-1004",
+      "userId": "USR-EMP-004",
+      "name": "Ananya Kumar",
+      "email": "ananya.kumar@timeoffpro.in",
+      "department": "People Operations",
+      "designation": "HR Specialist",
+      "managerId": "USR-MGR-001",
+      "joiningDate": "2022-11-14",
+      "active": true
+    },
+    {
+      "id": "EMP-1005",
+      "userId": "USR-EMP-005",
+      "name": "Divya Chowdary",
+      "email": "divya.chowdary@timeoffpro.in",
+      "department": "Finance",
+      "designation": "Accounts Executive",
+      "managerId": "USR-MGR-002",
+      "joiningDate": "2023-05-29",
+      "active": true
+    },
+    {
+      "id": "EMP-1006",
+      "userId": "USR-EMP-006",
+      "name": "Karthik Varma",
+      "email": "karthik.varma@timeoffpro.in",
+      "department": "Finance",
+      "designation": "Financial Analyst",
+      "managerId": "USR-MGR-002",
+      "joiningDate": "2024-06-10",
+      "active": true
+    }
+  ],
+  "leaveTypes": [
+    {
+      "id": "annual",
+      "name": "Annual Leave",
+      "allocation": 18,
+      "paid": true
+    },
+    {
+      "id": "sick",
+      "name": "Sick Leave",
+      "allocation": 10,
+      "paid": true
+    },
+    {
+      "id": "casual",
+      "name": "Casual Leave",
+      "allocation": 8,
+      "paid": true
+    },
+    {
+      "id": "unpaid",
+      "name": "Unpaid Leave",
+      "allocation": 0,
+      "paid": false
+    }
+  ],
+  "holidays": [
+    {
+      "date": "2026-11-08",
+      "name": "Diwali (Deepavali)"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Christmas"
+    },
+    {
+      "date": "2027-01-14",
+      "name": "Makar Sankranti"
+    },
+    {
+      "date": "2027-01-26",
+      "name": "Republic Day"
+    }
+  ],
+  "requests": [
+    {
+      "id": "REQ-2401",
+      "employeeId": "EMP-1001",
+      "employeeName": "Sai Kiran",
+      "leaveType": "annual",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-15",
+      "days": 2,
+      "reason": "Personal travel",
+      "status": "approved",
+      "submittedAt": "2026-10-09",
+      "managerId": "USR-MGR-001",
+      "reviewedBy": "USR-MGR-001",
+      "reviewedAt": "2026-10-10"
+    },
+    {
+      "id": "REQ-2402",
+      "employeeId": "EMP-1001",
+      "employeeName": "Sai Kiran",
+      "leaveType": "sick",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "days": 1,
+      "reason": "Medical appointment",
+      "status": "approved",
+      "submittedAt": "2026-11-07",
+      "managerId": "USR-MGR-001",
+      "reviewedBy": "USR-MGR-001",
+      "reviewedAt": "2026-11-08"
+    },
+    {
+      "id": "REQ-2403",
+      "employeeId": "EMP-1001",
+      "employeeName": "Sai Kiran",
+      "leaveType": "casual",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-26",
+      "days": 2,
+      "reason": "Family function",
+      "status": "pending",
+      "submittedAt": "2026-11-17",
+      "managerId": "USR-MGR-001"
+    },
+    {
+      "id": "REQ-2404",
+      "employeeId": "EMP-1002",
+      "employeeName": "Priya Menon",
+      "leaveType": "annual",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-28",
+      "days": 3,
+      "reason": "Planned vacation",
+      "status": "pending",
+      "submittedAt": "2026-11-16",
+      "managerId": "USR-MGR-001"
+    },
+    {
+      "id": "REQ-2405",
+      "employeeId": "EMP-1003",
+      "employeeName": "Rohan Shah",
+      "leaveType": "casual",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "days": 1,
+      "reason": "Personal work",
+      "status": "approved",
+      "submittedAt": "2026-11-14",
+      "managerId": "USR-MGR-001",
+      "reviewedBy": "USR-MGR-001",
+      "reviewedAt": "2026-11-15"
+    },
+    {
+      "id": "REQ-2406",
+      "employeeId": "EMP-1004",
+      "employeeName": "Ananya Kumar",
+      "leaveType": "sick",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-30",
+      "days": 2,
+      "reason": "Recovery",
+      "status": "rejected",
+      "rejectionReason": "Please submit the supporting document and reapply.",
+      "submittedAt": "2026-10-27",
+      "managerId": "USR-MGR-001",
+      "reviewedBy": "USR-MGR-001",
+      "reviewedAt": "2026-10-28"
+    },
+    {
+      "id": "REQ-2407",
+      "employeeId": "EMP-1005",
+      "employeeName": "Divya Chowdary",
+      "leaveType": "annual",
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-02",
+      "days": 3,
+      "reason": "Sister's wedding",
+      "status": "pending",
+      "submittedAt": "2026-11-15",
+      "managerId": "USR-MGR-002"
+    },
+    {
+      "id": "REQ-2408",
+      "employeeId": "EMP-1006",
+      "employeeName": "Karthik Varma",
+      "leaveType": "casual",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "days": 1,
+      "reason": "Bank and passport work",
+      "status": "approved",
+      "submittedAt": "2026-11-13",
+      "managerId": "USR-MGR-002",
+      "reviewedBy": "USR-MGR-002",
+      "reviewedAt": "2026-11-14"
+    }
+  ],
+  "notifications": [],
+  "audit": [
+    {
+      "id": "LOG-9447344c-99bd-46c0-9c4e-abd586e4bcb2",
+      "actor": "USR-21b004f3-f308-4d0d-96d5-390d12c4102d",
+      "actorName": "sundhar",
+      "role": "manager",
+      "action": "LOGIN",
+      "details": "sundhar signed in.",
+      "timestamp": "2026-11-18T06:22:35.434Z"
+    },
+    {
+      "id": "LOG-5de7d7dc-7e59-4893-a21f-26b5cce3d635",
+      "actor": "USR-ADMIN-001",
+      "actorName": "Lakshmi Prasanna",
+      "role": "admin",
+      "action": "LOGOUT",
+      "details": "Lakshmi Prasanna signed out.",
+      "timestamp": "2026-11-18T06:21:19.221Z"
+    },
+    {
+      "id": "LOG-0df8a6f1-edd4-4bdb-9929-8787b168425b",
+      "actor": "USR-ADMIN-001",
+      "actorName": "Lakshmi Prasanna",
+      "role": "admin",
+      "action": "MANAGER_CREATED",
+      "details": "Created manager account for sundhar.",
+      "timestamp": "2026-11-18T06:21:10.854Z"
+    },
+    {
+      "id": "LOG-af465217-cec4-4460-a82e-e482c2dd4dbb",
+      "actor": "USR-ADMIN-001",
+      "actorName": "Lakshmi Prasanna",
+      "role": "admin",
+      "action": "LOGIN",
+      "details": "Lakshmi Prasanna signed in.",
+      "timestamp": "2026-11-18T06:20:04.717Z"
+    },
+    {
+      "id": "LOG-5672ca03-6d21-4567-9ed5-a0833c4cec49",
+      "actor": "USR-ADMIN-001",
+      "actorName": "Lakshmi Prasanna",
+      "role": "admin",
+      "action": "LOGOUT",
+      "details": "Lakshmi Prasanna signed out.",
+      "timestamp": "2026-11-18T06:18:31.351Z"
+    },
+    {
+      "id": "LOG-15d3d6f3-9712-4816-9a63-9e8161d39133",
+      "actor": "USR-ADMIN-001",
+      "actorName": "Lakshmi Prasanna",
+      "role": "admin",
+      "action": "MANAGER_CREATED",
+      "details": "Created manager account for sagar.",
+      "timestamp": "2026-11-18T06:18:25.747Z"
+    },
+    {
+      "id": "LOG-4586e008-4745-4178-a650-a9201d134a0c",
+      "actor": "USR-ADMIN-001",
+      "actorName": "Lakshmi Prasanna",
+      "role": "admin",
+      "action": "LOGIN",
+      "details": "Lakshmi Prasanna signed in.",
+      "timestamp": "2026-11-18T06:16:54.530Z"
+    },
+    {
+      "id": "LOG-3794ae5d-00c0-45e3-a0e2-4b058f6e499f",
+      "actor": "USR-EMP-001",
+      "actorName": "Sai Kiran",
+      "role": "employee",
+      "action": "LOGOUT",
+      "details": "Sai Kiran signed out.",
+      "timestamp": "2026-11-18T06:16:28.965Z"
+    },
+    {
+      "id": "LOG-058488f9-8767-41cb-8063-e296b8b54d65",
+      "actor": "USR-EMP-001",
+      "actorName": "Sai Kiran",
+      "role": "employee",
+      "action": "LOGIN",
+      "details": "Sai Kiran signed in.",
+      "timestamp": "2026-11-18T06:16:07.707Z"
+    },
+    {
+      "id": "LOG-SEED",
+      "actor": "SYSTEM",
+      "actorName": "System",
+      "role": "system",
+      "action": "DEMO_DATA_INITIALIZED",
+      "details": "Timeoff Pro demonstration data created.",
+      "timestamp": "2026-11-18T06:11:54.819Z"
+    }
+  ],
+  "counters": {
+    "request": 2409,
+    "employee": 1007
+  }
+}
